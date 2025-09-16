@@ -44,12 +44,6 @@ You can download and install the app directly from the GitHub repository:
 
 ---
 
-## 📸 Screenshots
-
-*(Add 2–4 screenshots of your app interface here to make it visually appealing.)*  
-
----
-
 ## 💡 About the Project
 
 AI Health Assistant is built using AI/ML techniques for symptom analysis and recommendation. This project demonstrates the potential of technology to solve real-world problems, especially in underserved areas.  

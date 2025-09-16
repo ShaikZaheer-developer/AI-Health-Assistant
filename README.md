@@ -20,7 +20,7 @@ AI Health Assistant is an AI-powered mobile app designed to provide accessible a
 
 You can download and install the app directly from the GitHub repository:  
 
-[Download AI Health Assistant APK](https://github.com/yourusername/AI-Health-Assistant/raw/main/AI_Health_Assistant.apk)  
+[Download AI Health Assistant APK]((https://github.com/ShaikZaheer-developer/AI-Health-Assistant/blob/main/Trackfit.apk))  
 
 > **Note:** Ensure “Install from Unknown Sources” is enabled on your Android device.
 
